@@ -1,2 +1,4 @@
-# list-of-proxys
-is a list of proxys that you can use
+here is a list of proxys that you can use
+nebula: https://nebulaprxy.up.railway.app/
+interstellar: https://bubboisagigachad.strangled.net/go https://juniorlol.uk.to/
+rammerhead: https://learnabout.minecraft.pe https://edu.reborn.my
